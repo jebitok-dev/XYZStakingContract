@@ -30,13 +30,8 @@ To get a local copy up and running follow these simple example steps.
 Try running some of the following task:
 
 ```shell
-# npx hardhat accounts
-npx hardhat compile
-# npx hardhat clean
-# npx hardhat test
-# npx hardhat node
-# node scripts/sample-script.js
-# npx hardhat help
+$ npm install
+$ npx hardhat compile
 ```
 
 ## Author
